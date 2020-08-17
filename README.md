@@ -14,6 +14,7 @@ The module challenge is the afternoon project or assignment that students work t
 ## Introduction
 
 initial commit
+second commit
 
 This challenge focuses on both scope and closures.
 
